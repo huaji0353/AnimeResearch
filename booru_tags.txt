@@ -1,0 +1,173 @@
+
+meta
+#艺术家
+virtual youtuber 44248
+
+
+姿势
+standing 
+wariza 27215 鸭子坐
+cowboy shot 127824
+sidelocks 118481
+adjusting_clothes 调衣服
+index finger raised 14408 手指，1（koi-dance） pointing 24167
+outstretched arm 22399 伸手摸天，比如刀剑op
+{xxx} over shoulder 4643 扛着什么东西
+holding {xxx} 297858 拿着什么东西
+hands on {own chest} 4317
+
+表情
+looking at another 53644
+{shape}triangle mouth 4900
+{shape}v-shaped eyebrows 25280
+grin 咧嘴笑，露牙齿
+wide-eyed 吃惊
+
+服饰物件与环境物品
+glasses 149940 bespectacled 11633 adjusting eyewear 2692
+hair ornament 143 发饰
+throne 王座
+wing collar 20964 领带蝴蝶结
+uwabaki 2603 室内鞋
+pink_cardigan 羊毛衫
+sleeves past wrists 49324 萌袖子
+collarbone 163079
+asymmetrical_clothes 袖子不对称
+hooded_capelet 连衣帽
+layered clothing 1212 high spec的galgame制服
+shoes removed 2889 鞋子-脱掉
+emblem 7054 徽章 button badge 1056 buttons 27411
+
+oversized clothes 3248
+white blouse 9078 里面白色上衣
+clothes writing 14173
+you work you lose 150
+
+
+背景环境相关非场景
+{simple,color,gradient,transparent} background 65647
+photoshop
+negative_space 白背景
+two-tone background 14287
+backlighting 人物背后打光
+shiny hair 42979
+
+
+体态与身体装饰（遮挡）
+hair between eyes 265195
+dot_nose 点的鼻子 + face 
+wince 脸部皱纹
+crazy eyes 2422
+animegao kigurumi的脸
+braid 美兔的那个himecut上的编织发
+sidelocks 120383 monika，露露侧发
+%asymmetrical% bangs 5189 不对称刘海
+* eyebrows visible through hair 380171
+
+镜头
+from {side,behind} 46516 人物多view
+pov * 近视角
+facing_viewer 12815
+{eyes,head,feet} out of frame 3149 身体特写
+cropped legs 8835
+upper body 158230
+
+模仿系
+角色是角色，角色靠脸体型等特征，脸并不是画风
+衣服头发，这是cosplay或者alternate
+booru系统中，角色+某角色的cos是可以的
+
+parody 38154 动作类似，模仿
+style_parody 6760 
+look-alike 1149 看起来类似的
+official_art
+cover/scan
+character name 82909 自带角色名
+megami 1880
+official_style
+alternate_*
+alternate hairstyle 39336
+age_difference 3684
+*_connection
+seiyuu_connection
+seiyuu_joke
+seiyuu(https://safebooru.org/index.php?page=post&s=view&id=2090933)
+company_connection
+alternate costume 116708
+cosplay 衣服模仿
+character_name (cosplay)
+costume_switch 
+crossover
+
+内容，元素，梗
+multiple views 16931 布局级的多view，服装不同也有
+genderswap 19326
+everyone 这个词在版权系列（作品）中限定，每个人都出镜头
+dual persona 16216 双人，双面，如混沌美兔
+comparison
+real_life
+reference_photo
+photo-referenced 400
+photo
+chart 1266
+derivative_work 
+panels 条
+numbered 1154 带个数字
+
+meme
+moe moe kyun! 296 轻音
+can't be this cute 438 俺妹
+koi dance 279 恋 新源
+
+
+媒体材料
+how_to/tutorial 
+coloring practice 15 上色练习
+production_art 线稿，分镜，作画过程等材料
+color_guide 色见本
+anime_coloring TV动画风格
+no_lineart 油画，笔刷刷出来的
+vector_trace vector_art minimalism/no_eyes simple_background 向量画/简画
+-> greenmapple17
+-> o-23 抽象艺术，，
+sketch 60425/monochrome 249830
+partially colored 3456
+expression_chart 表情簇->人设图
+chart 1268 + expressions 2889 带表格的表情
+multiple_views 
+derivative work 2601
+widescreen 399 宽屏
+cover 21153 类似封面的插画形式
+drawing 2205 会歧义，表达的是画面里面呢还是插画形式呢
+watercolor 6270 水彩
+monochrome 251409 黑白
+traditional media 39347 非数字化的，传统作画材料，如纸上作画
+screencap 6161
+character sheet 4849
+flat_color 平涂，cell
+
+
+
+其他
+6+girls 28324
+90s 3957
+asian https://safebooru.org/index.php?page=post&s=view&id=2044404
+portrait 16528
+profile 35811
+realistic 8843
+-> flat-san 声优们的写实画风，，，
+condensation_trail 飞机尾（全是蓝天）
+
+
+
+H度-nsfw
+light erotic
+skindentation 衣服嵌
+bare shoulders 
+underwear only 9694
+
+纯人体 遮挡
+groin 腹股沟（大面积无衣物情况）
+midriff 上腹部
+navel 肚脐
+collarbone 锁骨

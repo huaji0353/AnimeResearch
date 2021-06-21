@@ -1,0 +1,82 @@
+a list of anime datasets
+Including kaggle, cloud disk , url database, crawlable site 
+% I have a feeling that it will become increasingly difficult to collect anime datasets in the future
+
+more source we need , I recently investigated deeply on these anime booru site
+booru mainly distributed on anime draw, character "photo" , fanart etc .. and it is a large-scale, Even with some  different sources these set will be extremely small distributions in booru .
+It's very very limited usage, generalization bad, coverage poor
+more data source is generative model need, although I haven't seen any study on GAN with Extra Training Data
+
+**Please respect the these dataset usage, Do not use commercially, Research only**
+
+```
+large-scale wild anime draw/ mainly character写真 / fanart / official art
+https://www.gwern.net/Crops
+https://www.gwern.net/Danbooru2020
+https://www.kaggle.com/mylesoneill/tagged-anime-illustrations
+face2anime https://github.com/bing-li-ai/AniGAN
+deviantart.com
+现代？https://www.kaggle.com/scribbless/another-anime-face-dataset
+
+
+characters face
+http://kaggle.com/rignak/gochiusa-faces
+https://github.com/grapeot/Danbooru2018AnimeCharacterRecognitionDataset freezeD
+animecharactersdatabase.com
+anime-planet.com
+
+getchu/ visual-novel / 立絵
+https://www.kaggle.com/splcher/animefacedataset
+https://github.com/bchao1/Anime-Face-Dataset Mckinsey666
+https://www.kaggle.com/soumikrakshit/anime-faces
+vndb.com
+
+pixie art/ rpg game face
+RPG-Maker-MV-Faces
+
+animation face
+selfie2anime https://www.kaggle.com/arnaud58/selfie2anime
+anilist.co,anidb.net
+
+manga face
+manga109 http://www.manga109.org/en/download
+
+line art/sketch
+https://www.kaggle.com/chaosinism/anime-sketch-pairs-from-tweets
+https://github.com/jerryli27/pixiv_dataset
+artbook
+
+drawing tutorial
+pixiv.com
+medibang.com
+
+figure フィギュア photo
+myfigurecollection.net
+
+3d anime model
+bowlroll.net
+sketchfab.com
+vroid.com
+3d.nicovideo.jp
+CM3D2/COM3D/koikatu
+
+vtuber profile
+itsukaralink.jp hololive.tv
+vtuber-post.com v-data.info
+
+characters set
+fanbook,artbook
+anime-xx.jp
+
+anime manga CD etc.. cover
+bookwalker
+anime-xx.jp
+
+animation art/anime scene
+# Ghibli , Makoto Shinkai , etc..
+visual-novel cg background
+artbook
+
+cosplay fashion
+
+```
