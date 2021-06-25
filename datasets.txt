@@ -7,16 +7,52 @@ booru mainly distributed on anime draw, character "photo" , fanart etc .. and it
 It's very very limited usage, generalization bad, coverage poor
 more data source is generative model need, although I haven't seen any study on GAN with Extra Training Data
 
+
+License
 **Please respect the these dataset usage, Do not use commercially, Research only**
+All images in the dataset are copyright to their respective owners.
+
+
 
 ```
+========================
+
+以角色为中心的数据库
+https://www.kaggle.com/printcraft/booru-chars-2021
+https://www.kaggle.com/printcraft/eshuushuu-tags-v1
+
+从动画获取头像，低分辨率
+https://www.kaggle.com/andock/anime-face-from-video-frames-portrait-data
+https://www.kaggle.com/andock/animated-hair-color-detection-k-means-clustering
+
+每个目录一个大约1k张图，低分辨率（@Discovering Interpretable Latent Space Directions of GANs Beyond Binary Attributes）
+https://www.kaggle.com/retardationai/animefaces
+
+漫画角色表情识别～400图，小数据集
+https://www.kaggle.com/mertkkl/manga-facial-expressions
+
+art，不过分辨率也太小了
+https://www.kaggle.com/patrickgomes/studio-ghibli-landscape
+
+Pixiv 2020 96.9k，2019，2018，face/illustration
+https://www.kaggle.com/stevenevan99/pixiv-top-daily-illustration-2020
+https://www.kaggle.com/stevenevan99/face-of-pixiv-top-daily-illustration-2020
+https://www.kaggle.com/stevenevan99/datasets
+
+高质量图【高分辨率，可辨识的语义实例，材质，不错的光影】
+https://www.kaggle.com/scribbless/another-anime-face-dataset
+
+
+
+
+
+=============================
 large-scale wild anime draw/ mainly character写真 / fanart / official art
 https://www.gwern.net/Crops
 https://www.gwern.net/Danbooru2020
 https://www.kaggle.com/mylesoneill/tagged-anime-illustrations
 face2anime https://github.com/bing-li-ai/AniGAN
 deviantart.com
-现代？https://www.kaggle.com/scribbless/another-anime-face-dataset
 
 
 characters face
