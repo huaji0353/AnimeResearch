@@ -42,8 +42,10 @@ https://www.kaggle.com/stevenevan99/datasets
 高质量图【高分辨率，可辨识的语义实例，材质，不错的光影】
 https://www.kaggle.com/scribbless/another-anime-face-dataset
 
-
-
+Download images from many anime-xx.jp 从动画官网爬动画截图，超多动画
+https://github.com/tetrix1993/anime-web-scraper
+爬手办照片
+https://github.com/tetrix1993/figure-scraper
 
 
 =============================
@@ -102,11 +104,9 @@ vtuber-post.com v-data.info
 
 characters set
 fanbook,artbook
-anime-xx.jp
 
 anime manga CD etc.. cover
 bookwalker
-anime-xx.jp
 
 animation art/anime scene
 # Ghibli , Makoto Shinkai , etc..
