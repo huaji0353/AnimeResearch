@@ -1,0 +1,24 @@
+anime character faces generate 
+
+morphing Average mean face
+
+skeleton joint surface  live2d
+
+quality assessment
+
+Latent Space
+
+Image Generation 
+
+(outline OR Sketching OR sketch OR sketches OR line art OR hints OR segment OR freehand) (cartoon OR anime OR illustration OR drawing) (Generation OR synthesis OR Colorization) (dataset OR pixiv OR danbooru OR kaggle) year:(>=2016 AND <=2021)
+extraction
+
+-Recommendation
+
+"anime" Matching dataset
+
+Latent Transfer Attribute style
+
+images contrastive learning, Semantic Correspondence, Local Feature Matching, reference based method
+
+guided
